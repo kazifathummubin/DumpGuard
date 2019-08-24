@@ -1,0 +1,58 @@
+/*
+============== background Color====================
+*/
+.dark-bg, .hover-bg:hover, .ui-timeline .tl-item .tl-body .tl-entry .btn-primary, .btn-text, .faq .collape-plus,
+.container-filter li a.active, .container-filter li a:hover, .container-filter li a, .link-zoom a, .link-zoom a.project_links,
+.project-info, #related-project .owl-prev:hover, #related-project .owl-next:hover, .sidebar-widget .widget-tag li a:hover,
+.content-carousel .owl-controls .owl-nav .owl-prev, .content-carousel .owl-controls .owl-nav .owl-next,
+.image-slider .owl-controls .owl-nav .owl-prev, .image-slider .owl-controls .owl-nav .owl-next,
+.fullwidth-slider .owl-controls .owl-nav .owl-prev, .fullwidth-slider .owl-controls .owl-nav .owl-next,
+.nf-carousel-theme .owl-controls .owl-nav .owl-prev, .nf-carousel-theme .owl-controls .owl-nav .owl-next, .blog-date,
+.pagination-nav ul li.active a, .pagination-nav ul li:hover a, .page-signin .body-inner:before, .b-line,
+.tparrows.tp-leftarrow:hover, .tparrows.tp-rightarrow:hover, .header-1 .top-bar-section, .icon-lf, .services-block .inner-box .lower-box,
+.nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-prev:hover, .nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-next:hover,
+.meta-post, #footer-widgets .widget .widget-title > span::after, .abt-block__slider .owl-dots .owl-dot,
+.bullet_round:after, .second_righ:after, .faq .collape-plus, .panel-title a i, .box-hover:hover .team-block,
+.ui-input-group .input-bar:before, .ui-input-group .input-bar:after, .ribbon.blue, .ribbon.blue, .btn-default, .bar,
+.nf-carousel-theme-top .owl-controls .owl-nav .owl-prev:hover, .nf-carousel-theme-top .owl-controls .owl-nav .owl-next:hover,
+.cart_btns div .secondary_bg, .bg-color, div .secondary_bg {
+  background: #20ade2;
+}
+
+.bullet_round:before, .second_righ:before {
+  box-shadow: 0 0 6px 6px #20ade2;
+}
+
+/*
+============== Text Color====================
+*/
+a:focus, a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i,
+.sidebar-widget ul li a:hover, .lead-point li, .blog-post .fa-tag, .pagination-nav ul li a, .big-font i, .btn-text:hover,
+.color-primary, a.color-primary, .contact .icon-circle, .single-sidebar-widget .special-links li:hover a,
+.single-sidebar-widget .special-links li a.active, .custom-check:before, .main-banner .banner-text h2 span,
+.latest__block-title:hover a, .more_btn__block, .abt-box__content-link-arrow, .abt-box_link-arrow,
+.abt-box__content-link:hover, .abt-box_link:hover, .abt-block_link-arrow, .abt-block_link:hover,
+.mv-block__vision_link-arrow, .mv-block__mission_link-arrow, .mv-block__vision_link:hover, .mv-block__mission_link:hover,
+.solution_box i.color_orenge, .single-fact .icon-boxed, .star i, .abt__link-arrow, .abt__link:hover,
+.ui-input-group > input:focus ~ label, .ui-input-group > textarea:focus ~ labels {
+  color:#f11b25;
+}
+
+/*
+============== Border Color====================
+*/
+.ui-timeline .tl-item .tl-body .tl-entry .btn-primary, .btn-text, #related-project .owl-prev:hover, #related-project .owl-next:hover,
+.widget-tag li a, .pagination-nav ul li a, .client-avtar, .contact .icon-circle,
+.contact-form input[type="text"]:focus, .contact-form textarea:focus, .single-sidebar-widget .special-links li a:before,
+.widget-search input[type="text"]:focus, .custom-check, .tparrows.tp-leftarrow:hover, .tparrows.tp-rightarrow:hover,
+.nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-prev, .nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-next,
+.nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-prev:hover, .nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-next:hover,
+.v-line, .container-filter li a, .ribbon:before, .ribbon:after,
+.nf-carousel-theme-top .owl-controls .owl-nav .owl-prev, .nf-carousel-theme-top .owl-controls .owl-nav .owl-next,
+.nf-carousel-theme-top .owl-controls .owl-nav .owl-prev:hover, .nf-carousel-theme-top .owl-controls .owl-nav .owl-next:hover {
+  border-color: #20ade2;
+}
+
+.team-member .inner-box .overlay-box:after, .ui-input-group > input:focus, .rightGrip:before, .leftGrip:before {
+  border-bottom-color: #f11b25;
+}
